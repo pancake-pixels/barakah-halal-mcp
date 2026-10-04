@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "barakah-halal-screen",
+  "version": "1.0.0",
+  "description": "Check if a US stock is halal (Sharia-compliant), with the dates its verdict changed.",
+  "author": {
+    "name": "Barakah Profits (Pancake Pixels Pty Ltd)",
+    "url": "https://barakahprofits.com"
+  },
+  "homepage": "https://barakahprofits.com/?utm_source=cursor-directory&utm_medium=directory&utm_campaign=mcp",
+  "repository": "https://github.com/pancake-pixels/barakah-halal-mcp",
+  "keywords": ["halal", "shariah", "islamic-finance", "stocks", "investing", "mcp"]
+}
