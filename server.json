@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.barakahprofits.app/halal-screen",
+  "title": "Barakah Halal Stock Screen",
+  "description": "Check if a US stock is halal (Sharia-compliant), with the dates its verdict changed.",
+  "websiteUrl": "https://barakahprofits.com/?utm_source=mcp-registry&utm_medium=directory&utm_campaign=mcp",
+  "repository": {
+    "url": "https://github.com/pancake-pixels/barakah-halal-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.barakahprofits.com/mcp"
+    }
+  ]
+}
