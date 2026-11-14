@@ -17,12 +17,14 @@ https://app.barakahprofits.com/mcp
 
 | Tool | What it does |
 |---|---|
-| `check_halal_stock` | Screens one US-listed ticker (e.g. `NVDA`, `AAPL`): business activity, interest-bearing debt and cash vs market cap, interest income vs revenue. Returns the verdict, each check with its ratio, and the verdict's change history. |
+| `check_halal_stock` | Screens one listed company by ticker or name (e.g. `NVDA`, `CSL.AX`, `1155.KL`, `D05.SI`): business activity, interest-bearing debt and cash vs market cap, interest income vs revenue. Returns the verdict, each check with its ratio, and the verdict's change history. |
 | `recent_halal_verdict_changes` | Stocks that recently cleared or broke the screen, with dates. |
 
-Coverage: US-listed stocks.
+Coverage: about 9,000 listed stocks on NASDAQ, NYSE, ASX (Australia), Bursa Malaysia and SGX (Singapore).
 
-Verdicts: **PASSES FINANCIAL SCREEN**, **NEEDS REVIEW**, **NOT HALAL**.
+Every screened stock also has a public page, e.g. [app.barakahprofits.com/halal/NVDA](https://app.barakahprofits.com/halal/NVDA?utm_source=github&utm_medium=readme&utm_campaign=mcp).
+
+Verdicts: **PASSES FINANCIAL SCREEN**, **DOUBTFUL**, **NEEDS REVIEW**, **NOT HALAL**. Automated estimate, not a fatwa.
 
 ## Connect
 
