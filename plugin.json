@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "barakah-halal-screen",
   "version": "1.1.0",
-  "description": "Check if a stock is halal (Sharia-compliant) across US, ASX, Bursa Malaysia and SGX, with the dates its verdict changed.",
+  "description": "Halal (Sharia) stock screen for US, ASX, Bursa and SGX stocks, with dated verdict changes.",
   "author": {
     "name": "Barakah Profits (Pancake Pixels Pty Ltd)",
     "url": "https://barakahprofits.com"
