@@ -3,12 +3,21 @@
   "name": "com.barakahprofits.app/halal-screen",
   "title": "Barakah Halal Stock Screen",
   "description": "Halal (Sharia) stock screen for US, ASX, Bursa and SGX stocks, with dated verdict changes.",
+  "icons": [
+    {
+      "src": "https://app.barakahprofits.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "websiteUrl": "https://barakahprofits.com/?utm_source=mcp-registry&utm_medium=directory&utm_campaign=mcp",
   "repository": {
     "url": "https://github.com/pancake-pixels/barakah-halal-mcp",
     "source": "github"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "remotes": [
     {
       "type": "streamable-http",
