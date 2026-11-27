@@ -1,5 +1,7 @@
 # Barakah Halal Stock Screen — MCP server
 
+[![Barakah Halal Stock Screen MCP connector](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen/badges/score.svg)](https://glama.ai/mcp/connectors/com.barakahprofits.app/halal-screen)
+
 Ask your AI assistant whether a stock is halal, and get a dated answer.
 
 A hosted [Model Context Protocol](https://modelcontextprotocol.io) server from
